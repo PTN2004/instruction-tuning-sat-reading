@@ -25,10 +25,11 @@ instruction-tuning-sat-reading/
 ├── configs/                  # Config files for model, training, and dataset
 │   ├── model_config.yaml
 │   ├── training_config.yaml
+│   ├── inference_config.yaml
 │   └── dataset_config.yaml
 ├── scripts/
 │   ├── train.py               # Training script
-│   └── infer.py               # CLI inference script
+│            
 ├── src/
 │   ├── api/
 │   │   └── app.py              # FastAPI app
@@ -41,7 +42,7 @@ instruction-tuning-sat-reading/
 │   ├── model_loader.py
 │   └── inference.py
 ├── requirements.txt
-├── run_api.py
+├── run_app.py
 └── README.md
 ```
 
