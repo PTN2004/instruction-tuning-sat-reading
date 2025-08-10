@@ -1,0 +1,8 @@
+# Dataset configuration
+dataset_name: "emozilla/sat-reading"
+train_test_split_ratio: 0.1
+
+max_length: 1024
+
+text_column: "text"
+answer_column: "answer"

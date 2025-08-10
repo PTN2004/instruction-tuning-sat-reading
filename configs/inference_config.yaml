@@ -1,0 +1,8 @@
+# Inference configuration
+peft_model_id: "TKoiiVN/llama3-3B-peft-SAT-reading-v2"
+
+max_new_tokens: 64
+temperature: 0.0
+top_p: 1.0
+do_sample: false
+repetition_penalty: 1.0
