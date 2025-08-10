@@ -53,7 +53,7 @@ instruction-tuning-sat-reading/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/instruction-tuning-sat-reading.git
+git clone https://github.com/PNT2004/instruction-tuning-sat-reading.git
 cd instruction-tuning-sat-reading
 ```
 
